@@ -1,0 +1,30 @@
+
+
+body{
+	background-color: rgba(236,237,239,0.8);
+}
+h1{
+	opacity: 1;
+	margin-left: 35%;
+}
+h2{
+	
+	margin-left: 50%;
+}
+
+p{
+	font-size: 40px;
+	color: #aaa;
+	/*border: 2px solid #232;*/
+	margin-left: 40%;
+}
+
+.box{
+	background-color: #aaa;
+	opacity: .8;
+}
+.container{
+	position: center;
+	margin-left: 40%;
+}
+
